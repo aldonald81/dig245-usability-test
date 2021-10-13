@@ -35,3 +35,9 @@ img {
 .row {
   margin-bottom: 3%
 }
+
+a {
+  margin-left: 48%;
+  color: white;
+  font-size: 20px;
+}
